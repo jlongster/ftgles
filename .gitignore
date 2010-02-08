@@ -1,0 +1,7 @@
+config.log
+stamp-h1
+*.dylib
+*.a
+*.o
+*.lo
+*.la

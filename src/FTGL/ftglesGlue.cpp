@@ -31,7 +31,10 @@ void ftglInitImmediateModeGL()
 	glVertexPointer(3, GL_FLOAT, sizeof( Vertex ), immediate[ 0 ].xyz );
 	glTexCoordPointer(2, GL_FLOAT, sizeof( Vertex ), immediate[ 0 ].st );
 	//glColorPointer(4, GL_UNSIGNED_BYTE, sizeof( Vertex ), immediate[ 0 ].c );
-	
+
+        glEnableClientState( GL_VERTEX_ARRAY );
+        glEnableClientState( GL_TEXTURE_COORD_ARRAY );
+        
 	if (initted == false)
 	{
 		for ( int i = 0; i < MAX_VERTS * 3 / 2; i+=6 ) {
@@ -45,8 +48,6 @@ void ftglInitImmediateModeGL()
 			quad_indexes[ i + 5 ] = q + 3;
 		}
 		
-		glEnableClientState( GL_VERTEX_ARRAY );
-		glEnableClientState( GL_TEXTURE_COORD_ARRAY );
 		//glEnableClientState( GL_COLOR_ARRAY );
 		initted = true;
 	}
