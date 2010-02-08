@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/ftgles/src/FTLayout
+END
+FTLayoutImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/ftgles/src/FTLayout/FTLayoutImpl.h
+END
+FTSimpleLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/ftgles/src/FTLayout/FTSimpleLayout.cpp
+END
+FTLayoutGlue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/ftgles/src/FTLayout/FTLayoutGlue.cpp
+END
+FTLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/ftgles/src/FTLayout/FTLayout.cpp
+END
+FTSimpleLayoutImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/ftgles/src/FTLayout/FTSimpleLayoutImpl.h
+END

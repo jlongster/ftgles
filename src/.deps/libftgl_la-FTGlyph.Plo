@@ -1,0 +1,220 @@
+libftgl_la-FTGlyph.lo libftgl_la-FTGlyph.o: FTGlyph/FTGlyph.cpp \
+  ../config.h FTGL/ftgles.h /opt/local/include/ft2build.h \
+  /opt/local/include/freetype2/freetype/config/ftheader.h \
+  /opt/local/include/freetype2/freetype/freetype.h \
+  /opt/local/include/freetype2/freetype/config/ftconfig.h \
+  /opt/local/include/freetype2/freetype/config/ftoption.h \
+  /opt/local/include/freetype2/freetype/config/ftstdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/limits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/syslimits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/limits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/limits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/limits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/_limits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/syslimits.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/available.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/setjmp.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/setjmp.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/setjmp.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/AvailabilityMacros.h \
+  /opt/local/include/freetype2/freetype/fterrors.h \
+  /opt/local/include/freetype2/freetype/ftmoderr.h \
+  /opt/local/include/freetype2/freetype/fterrdef.h \
+  /opt/local/include/freetype2/freetype/fttypes.h \
+  /opt/local/include/freetype2/freetype/ftsystem.h \
+  /opt/local/include/freetype2/freetype/ftimage.h \
+  /opt/local/include/freetype2/freetype/ftglyph.h \
+  /opt/local/include/freetype2/freetype/ftoutln.h FTGL/FTPoint.h \
+  FTGL/FTBBox.h FTGL/FTBuffer.h FTGL/FTGlyph.h FTGL/FTBitmapGlyph.h \
+  FTGL/FTBufferGlyph.h FTGL/FTOutlineGlyph.h FTGL/FTTextureGlyph.h \
+  FTGL/FTFont.h FTGL/FTGLBitmapFont.h FTGL/FTBufferFont.h \
+  FTGL/FTGLOutlineFont.h FTGL/FTGLTextureFont.h FTGL/FTLayout.h \
+  FTGL/FTSimpleLayout.h FTInternals.h FTGL/ftgles.h FTGL/ftglesGlue.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/assert.h \
+  FTGlyph/FTGlyphImpl.h
+
+../config.h:
+
+FTGL/ftgles.h:
+
+/opt/local/include/ft2build.h:
+
+/opt/local/include/freetype2/freetype/config/ftheader.h:
+
+/opt/local/include/freetype2/freetype/freetype.h:
+
+/opt/local/include/freetype2/freetype/config/ftconfig.h:
+
+/opt/local/include/freetype2/freetype/config/ftoption.h:
+
+/opt/local/include/freetype2/freetype/config/ftstdlib.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/limits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/syslimits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/limits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/cdefs.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/limits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/limits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/_limits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/syslimits.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/string.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/_types.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/_types.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/_types.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/_types.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdio.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdlib.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/available.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/wait.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/signal.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/appleapiopts.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/signal.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/signal.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/_structs.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/_structs.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/_structs.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/mach/i386/_structs.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/resource.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/endian.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/endian.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/_endian.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/libkern/_OSByteOrder.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/libkern/i386/_OSByteOrder.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/alloca.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/types.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/types.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/setjmp.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/machine/setjmp.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/i386/setjmp.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/AvailabilityMacros.h:
+
+/opt/local/include/freetype2/freetype/fterrors.h:
+
+/opt/local/include/freetype2/freetype/ftmoderr.h:
+
+/opt/local/include/freetype2/freetype/fterrdef.h:
+
+/opt/local/include/freetype2/freetype/fttypes.h:
+
+/opt/local/include/freetype2/freetype/ftsystem.h:
+
+/opt/local/include/freetype2/freetype/ftimage.h:
+
+/opt/local/include/freetype2/freetype/ftglyph.h:
+
+/opt/local/include/freetype2/freetype/ftoutln.h:
+
+FTGL/FTPoint.h:
+
+FTGL/FTBBox.h:
+
+FTGL/FTBuffer.h:
+
+FTGL/FTGlyph.h:
+
+FTGL/FTBitmapGlyph.h:
+
+FTGL/FTBufferGlyph.h:
+
+FTGL/FTOutlineGlyph.h:
+
+FTGL/FTTextureGlyph.h:
+
+FTGL/FTFont.h:
+
+FTGL/FTGLBitmapFont.h:
+
+FTGL/FTBufferFont.h:
+
+FTGL/FTGLOutlineFont.h:
+
+FTGL/FTGLTextureFont.h:
+
+FTGL/FTLayout.h:
+
+FTGL/FTSimpleLayout.h:
+
+FTInternals.h:
+
+FTGL/ftgles.h:
+
+FTGL/ftglesGlue.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h:
+
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/assert.h:
+
+FTGlyph/FTGlyphImpl.h:

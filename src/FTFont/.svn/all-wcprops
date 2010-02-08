@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont
+END
+FTPolygonFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTPolygonFontImpl.h
+END
+FTFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTFont.cpp
+END
+FTOutlineFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTOutlineFont.cpp
+END
+FTExtrudeFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTExtrudeFont.cpp
+END
+FTPixmapFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTPixmapFontImpl.h
+END
+FTTextureFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTTextureFontImpl.h
+END
+FTPolygonFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTPolygonFont.cpp
+END
+FTFontGlue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTFontGlue.cpp
+END
+FTPixmapFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTPixmapFont.cpp
+END
+FTTextureFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTTextureFont.cpp
+END
+FTBufferFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTBufferFontImpl.h
+END
+FTBitmapFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTBitmapFontImpl.h
+END
+FTFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTFontImpl.h
+END
+FTOutlineFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTOutlineFontImpl.h
+END
+FTExtrudeFontImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTExtrudeFontImpl.h
+END
+FTBufferFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTBufferFont.cpp
+END
+FTBitmapFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/ftgles/src/FTFont/FTBitmapFont.cpp
+END
